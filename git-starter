@@ -14,7 +14,8 @@
     </header>
 
     <main>
-
+    <!--After you write your name, then save your change and Push this changed file up to your Github repository. Use the commit message 'Added my Name'. -->
+    <!--Then write your city and save that second change and Push the updated file up to your Github repository. Ue the commit message 'Added my City'.  -->
             <div>
                 <p> Write your name here</p>
                 <p> Write your city here</p>
